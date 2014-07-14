@@ -1,0 +1,27 @@
+* {
+	border: 0 solid;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+}
+
+html {
+	font: 87.5%/1.5 "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body {
+	background-color: transparent;
+	margin: 0;
+}
+
+input {
+	-webkit-appearance: none;
+	appearance: none;
+	outline: none;
+	padding: .25em;
+}
+
+input {
+	background-color: transparent;
+	color: #2B2B2B;
+}

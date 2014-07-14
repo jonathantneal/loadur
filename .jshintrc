@@ -1,0 +1,13 @@
+{
+	"boss": true,
+	"camelcase": true,
+	"curly": false,
+	"devel": true,
+	"eqeqeq": true,
+	"globals": ["chrome"],
+	"newcap": true,
+	"strict": false,
+	"sub": true,
+	"trailing": true,
+	"validthis": true
+}
